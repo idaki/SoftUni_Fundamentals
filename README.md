@@ -1,4 +1,4 @@
-# SoftUni Fundamentals Course
+# SoftUni Fundamentals Course - Jan. 2023
 <strong>Description:</strong> the repo is used to store and share accross devices the independently developed code related to SoftUni Java Web Development 
 
 ### Java Fundamentals Course Objectives
