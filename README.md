@@ -1,6 +1,5 @@
 # SoftUni Fundamentals Course - Jan. 2023
-<strong>Description:</strong> the repo is used to store and share accross devices the independently developed code related to SoftUni Java Web Development 
-
+<strong>Description:</strong> the repo is used to store and share accross devices the independently developed code related to the academi course
 ### Java Fundamentals Course Objectives
 - Working with linear data structures
   -	Arrays and Lists
