@@ -1,6 +1,6 @@
 # SoftUni_Fundamentals_Course
 
-##Java Fundamentals Objectives
+## Java Fundamentals Objectives
 - Working with linear data structures
   -	Arrays and Lists
 -	Defining simple classes
