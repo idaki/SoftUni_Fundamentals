@@ -9,7 +9,7 @@ Description: the repo is used to store and share accross devices the code relate
 -	Regular Expressions
 -	Building simple web project
 
-https://github.com/idaki/SoftUni_Java_Fundamentals_Course/blob/main/Topics.png
+![Java Fundamentals Course Topic List]((https://github.com/idaki/SoftUni_Java_Fundamentals_Course/blob/main/Topics.png)
 
 
 
