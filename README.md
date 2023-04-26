@@ -3,12 +3,13 @@ Temp Placeholder
 
 Java Fundamentals Objectives
 
-1.Working with linear data structures
-a)Arrays and Lists
-2.Defining simple classes
-3.Processing and manipulating strings
-4.Regular Expressions
-5.Building simple web project
+	Working with linear data structures
+	Arrays and Lists
+	Defining simple classes
+	Processing and manipulating strings
+	Regular Expressions
+	Building simple web project
+
 
 
 
