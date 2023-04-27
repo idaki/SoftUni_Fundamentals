@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4640cac5-c706-4ee1-b11d-2a72ff06b34c" name="Changes" comment="" />
+    <list default="true" id="4640cac5-c706-4ee1-b11d-2a72ff06b34c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Lab/P01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab/p02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab/p03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab/p04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreExercises/p01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreExercises/p02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreExercises/p03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreExercises/p04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreExercises/p05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Regular Expressions/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/src/Exercises/p01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/src/Exercises/p02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/src/Exercises/p03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/src/Exercises/p06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/src/Exercises/p4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/src/Lab/p01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/src/Lab/p02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/src/Lab/p03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Text Processing/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Text Processing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/src/Exercises/MultiplyBigNumbers_05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/src/Exercises/p07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/src/Exercises/p08.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +40,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
