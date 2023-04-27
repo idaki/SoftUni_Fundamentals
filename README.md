@@ -1,6 +1,6 @@
 # SoftUni Fundamentals Course - Jan. 2023
 <strong>Description:</strong> the repo is used to store and share accross devices the independently developed code related to the academic course
-### Java Fundamentals Course Objectives
+### Course Objectives
 - Working with linear data structures
   -	Arrays and Lists
 -	Defining simple classes
