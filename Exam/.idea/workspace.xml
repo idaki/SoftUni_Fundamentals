@@ -1,7 +1,198 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c545e80c-629c-4abc-ab37-12779aec791b" name="Changes" comment="" />
+    <list default="true" id="c545e80c-629c-4abc-ab37-12779aec791b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Algorithm/Algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/out/production/Algorithm/Compare/Compare_StringA_toStringB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/out/production/Algorithm/Compare/Compare_StringB_to_StringA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/out/production/Algorithm/increse_decrease/Decrease_Array_First_Index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/out/production/Algorithm/increse_decrease/Decrease_Array_Last_Index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/out/production/Algorithm/increse_decrease/Increase_Arrat_Last_Index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/out/production/Algorithm/increse_decrease/Increase_Array_Index_0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/out/production/Algorithm/increse_decrease/Move_to_Left_1_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/out/production/Algorithm/increse_decrease/Move_to_Right_1_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Exercises/PB01_Train.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Exercises/PB02Common_Elements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Exercises/PB03_Zig_Zag_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Exercises/PB04_Array_Rotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Exercises/PB05_Top_Integers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Exercises/PB06_Equal_Sums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Exercises/PB07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Exercises/PB08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Exercises/PB09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Exercises/PB10_Treasure_Hunt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Exercises/PB10_Treasure_HuntII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Exercises/TreasureHunt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Lab/PB01_Day_of_Week.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Lab/PB02_Print_Numbers_in_Reverse_Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Lab/PB03_Sum_Even_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Lab/PB04_Reverse_an_Array_of_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Lab/PB05_Even_and_Odd_Subtraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Lab/PB06_Equal_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Lab/PB07_Condense_Array_to_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Lab/PB08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/Associated Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Exercises/p01_CountCharsinaString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Exercises/p02AMinerTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Exercises/p03_Orders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Exercises/p04_SoftUniParking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Exercises/p05_Courses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Exercises/p06StudentAcademy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Exercises/p07LegendaryFarming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Exercises/p08CompanyUsers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Exercises/p09_ForceBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Exercises/p10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Lab/P01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Lab/p02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Lab/p03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Lab/p04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/MoreExercises/p01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/MoreExercises/p02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/MoreExercises/p03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/MoreExercises/p04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Associated Arrays/out/production/Associated Arrays/MoreExercises/p05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/ClassesAndObjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Exercise06/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Exercise06/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/ExercisePB02/Article.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/ExercisePB02/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Exercises/PB01/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Exercises05/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Exercises05/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/ExercisesPB03/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/ExercisesPB03/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/ExercisesPB04/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/ExercisesPB04/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/ExercisresPB06.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Lab/PB01_Randomize_Words.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Lab/PB02_Sum_Big_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Lab/PB03_Big_Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Lab/PB04_Songs$Song.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Lab/PB04_Songs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Lab/PB05_Students$Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Lab/PB05_Students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Lab/PB05_Students_2_0$Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/out/production/ClassesAndObjects/Lab/PB05_Students_2_0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exam/Problem_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exam/Problem_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exam/Problem_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/ExampsPrep.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E01_Programming_Fundamentals_Final_Exam_Retake/p01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E01_Programming_Fundamentals_Final_Exam_Retake/p02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E01_Programming_Fundamentals_Final_Exam_Retake/p03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E02_Programming_Fundamentals_Final_Exam/p01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E02_Programming_Fundamentals_Final_Exam/p02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E02_Programming_Fundamentals_Final_Exam/p03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E03/p01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E03/p02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E03/p03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E04/p01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E04/p02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E04/p03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E05/p01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E05/p02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/E05/p03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampsPrep/out/production/ExampsPrep/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/Exams.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/E01Programming_Fundamentals_Mid_Exam_Retake/PB01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/E01Programming_Fundamentals_Mid_Exam_Retake/PB02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/E01Programming_Fundamentals_Mid_Exam_Retake/PB03_Memory_game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/E02_Programming_Fundamentals_Mid_Exam/PB03_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/E03_Programming_Fundamentals_Mid_Exam_Retake/PB01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/E03_Programming_Fundamentals_Mid_Exam_Retake/PB02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/E03_Programming_Fundamentals_Mid_Exam_Retake/PB03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/E04_Programming_Fundamentals_Mid_Exam/PB01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/E04_Programming_Fundamentals_Mid_Exam/PB02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/E04_Programming_Fundamentals_Mid_Exam/PB03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/E05_Programming_Fundamentals_Mid_Exam/PB02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/E05_Programming_Fundamentals_Mid_Exam/PB03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/out/production/Exams/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/Docs/05. Java-Fundamentals-Lists-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/Docs/05. Java-Fundamentals-Lists-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/Docs/05. Java-Fundamentals-Lists.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/Lists.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Exercises/PB01_Train.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Exercises/PB02_Change_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Exercises/PB03_House_Party.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Exercises/PB04_List_Operations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Exercises/PB05_Bomb_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Exercises/PB06_Cards_Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Exercises/PB07_Append_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Exercises/PB08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Exercises/PB09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Exercises/PB10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Lab/PB01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Lab/PB02_Gaus_trick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Lab/PB03_Merge_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Lab/PB04_List_Manipulation_Basics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Lab/PB05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Lab/PB06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Lab/PB07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/out/production/Lists/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/Docs/04. Java-Fundamentals-Methods-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/Docs/04. Java-Fundamentals-Methods-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/Docs/04. Java-Fundamentals-Methods.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/Methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Exercises/PB01_Smallest_of_Three_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Exercises/PB02_Vowels_Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Exercises/PB03_Characters_in_Range.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Exercises/PB04_Password_Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Exercises/PB05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Exercises/PB05_AddAndSubtract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Exercises/PB06_Middle_Characters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Exercises/PB07_NxN_Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Exercises/PB08_Factorial_Division.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Exercises/PB09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Exercises/PB09_Palindrome_Integers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Exercises/PB10_Top_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Lab/PB01_Sign_of_Integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Lab/PB02_Grades.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Lab/PB03_Printing_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Lab/PB04_Calculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Lab/PB05_Orders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Lab/PB06_Calculate_Rectangle_Area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Lab/PB07_Repeat_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Lab/PB08_Math_Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Lab/PB09_GreaterOfTwoValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Lab/PB10_Multiply_Evens_by_Odds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/Lab/PB11_Math_operations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mid_Term_Exam/Mid_Term_Exam.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mid_Term_Exam/out/production/Mid_Term_Exam/PB01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mid_Term_Exam/out/production/Mid_Term_Exam/PB02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mid_Term_Exam/out/production/Mid_Term_Exam/PB03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/Regular Expressions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/out/production/Regular Expressions/Exercises/p01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/out/production/Regular Expressions/Exercises/p02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/out/production/Regular Expressions/Exercises/p03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/out/production/Regular Expressions/Exercises/p06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/out/production/Regular Expressions/Exercises/p4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/out/production/Regular Expressions/Lab/p01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/out/production/Regular Expressions/Lab/p02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/out/production/Regular Expressions/Lab/p03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regular Expressions/out/production/Regular Expressions/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/Text Processing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Exercises/MultiplyBigNumbers_05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Exercises/p01_ValidUsernames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Exercises/p02Character_Multiplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Exercises/p03_ExtractFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Exercises/p04_CaesarCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Exercises/p05_MultiplyBigNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Exercises/p06_ReplaceRepeatingChars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Exercises/p07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Exercises/p08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Lab/P01ReverseStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Lab/P02_RepeatStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Lab/P03_Substring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Lab/P04_TextFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Lab/P05DigitsLettersAndOther.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text Processing/out/production/Text Processing/Main.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +206,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
