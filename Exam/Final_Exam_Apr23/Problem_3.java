@@ -20,14 +20,6 @@ public class Problem_3 {
                 } else if ((!guestMealMap.get(guest).contains(meal))) {
                     guestMealMap.get(guest).add(meal);
                 }
-                   /* Exam version
-                   for (Map.Entry<String, List<String>> entry : guestMealMap.entrySet()) {
-                        String currentNameCheck = entry.getKey();
-                        if (currentNameCheck.equals(name)) {
-                            if (!entry.getValue().contains(meal)) {
-                                guestMealMap.get(name).add(meal);
-                            }
-                        }*/
             } else if (guestInfoInput.contains("Dislike")) {
 
                 if (!guestMealMap.containsKey(guest)) {
@@ -36,10 +28,6 @@ public class Problem_3 {
                     System.out.printf("%s doesn't have the %s in his/her collection.%n", guest, meal);
                 } else {
                     unlikedMealsCount++;
-                  /* Exam version
-                  int indexToDelete = guestMealMap.get(name).indexOf(meal);
-                  guestMealMap.get(name).remove(indexToDelete);
-                  */
                     guestMealMap.get(guest).remove(meal);
                     System.out.printf("%s doesn't like the %s.%n", guest, meal);
                 }
@@ -49,12 +37,7 @@ public class Problem_3 {
                                             + ": "
                                             + value.toString()
                                             .replaceAll("[\\[\\]]", "")));
-       /* Exam version
-       for (Map.Entry<String, List<String>> entry: guestMealMap.entrySet()) {
-            String name = entry.getKey();
-            List<String> meals = new ArrayList<>(entry.getValue());
-            System.out.println(name+": "+meals.toString().replaceAll("[\\[\\]]",""));
-        }*/
+
         System.out.println("Unliked meals: " + unlikedMealsCount);
     }
 }

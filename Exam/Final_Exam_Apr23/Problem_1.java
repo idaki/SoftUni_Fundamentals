@@ -4,8 +4,6 @@ public class Problem_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        //StringBuilder text = new StringBuilder(scanner.nextLine());
-
         String text = scanner.nextLine();
         String input = "";
 
