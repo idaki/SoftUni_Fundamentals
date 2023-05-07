@@ -1,5 +1,5 @@
 # SoftUni Fundamentals Course - Jan. 2023
-<strong>Description:</strong> the repo is used to store and share accross devices the independently developed code related to the academic course
+<strong>Description:</strong> the repo is used to store and share accross devices the independently developed course-related code.
 ### Course Objectives
 - Working with linear data structures
   -	Arrays and Lists
