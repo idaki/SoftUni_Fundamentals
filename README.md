@@ -8,7 +8,7 @@
 -	Regular Expressions
 -	Building simple web project
 
-### Course Topic List
+### Course Agenda
 
 ![Java Fundamentals Course Topic List](https://github.com/idaki/SoftUni_Java_Fundamentals_Course/blob/main/Topics.png)
 
